@@ -1,8 +1,7 @@
 # random_multiplication_app
 
-Tabii ki, README dosyanız için İngilizce ve Türkçe açıklamaları aşağıya ekleyebilirim:
 
-### English README:
+![rimage](https://github.com/HaticeDilmac/random_multiplication_app/assets/100489350/71c00059-2f9d-47eb-9a25-edfd37bd9d89)
 
 #### Quiz Page with Random Image Background
 
