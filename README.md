@@ -1,4 +1,4 @@
-RANDOM MULTIPLICATION APP
+# RANDOM MULTIPLICATION APP
 
 
 ![rimage](https://github.com/HaticeDilmac/random_multiplication_app/assets/100489350/71c00059-2f9d-47eb-9a25-edfd37bd9d89)
